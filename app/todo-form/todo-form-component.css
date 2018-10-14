@@ -23,3 +23,8 @@
 .todo-form button {
     margin-left: 16px;
 }
+
+.todo-form button:hover {
+    background-color: forestgreen;
+    color: white;
+}
